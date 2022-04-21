@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StyledTextRes</string>
+    <string name="foo">Sample text with <b>bold styling</b> to test</string>
+</resources>
